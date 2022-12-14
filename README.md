@@ -26,4 +26,4 @@ Quando for utilizado este padrão, deve ter como situação:
 Os seus principais pontos fracos são:
 
 * Difícieis de realizar testes unitários
-* Se não estiver bem implementado, acaba não sendo thread-safe
+* Se não estiver bem implementado, acaba não sendo Thread Safe
